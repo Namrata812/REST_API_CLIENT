@@ -12,7 +12,9 @@ BATCH DURATION: January 5th, 2025 to February 5th, 2025.
 MENTOR NAME: Neela Santhosh Kumar
 
 ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS:
+
 Tool Used : IntelliJ IDEA
+
 HTTP Client: Use libraries such as:
 java.net.http.HttpClient (Java 11 and above). Third-party libraries like OkHttp for better performance and flexibility. JSON Parser: Extract and format the JSON response using:
 
