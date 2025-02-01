@@ -21,3 +21,5 @@ java.net.http.HttpClient (Java 11 and above). Third-party libraries like OkHttp 
 org.json.JSONObject com.google.gson.Gson Error Handling: Implement error-handling mechanisms to manage scenarios such as invalid API keys, incorrect city names, or network issues.
 
 # OUTPUT OF THE TASK 
+
+![Image](https://github.com/user-attachments/assets/133a61d7-cf1c-4c8f-8541-292764006f78)
